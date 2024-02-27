@@ -1,5 +1,5 @@
 # sales-dashboard
-Sales Dashboard with Reactjs and ApexCharts
+Sales Dashboard Landing Page with Reactjs and ApexCharts
 
 ![screencapture-localhost-3000-2024-02-27-00_26_37](https://github.com/maymtko/sales-dashboard/assets/68991814/347337c1-2b64-4437-b06c-616fa1b346ce)
 
